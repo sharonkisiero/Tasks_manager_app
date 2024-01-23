@@ -36,16 +36,16 @@ Task Manager is a feature-rich task management application designed to streamlin
 
    git clone https://github.com/sKyi01/Task-Manager-React-Firebase.git
 
-2. **Navigate to the project directory:
+2. **Navigate to the project directory:**
 
    cd Task-Manager-React-Firebase
 
    
-4. **Install dependencies:
+4. **Install dependencies:**
 
    npm install
    
-5. **Set up Firebase:
+5. **Set up Firebase:**
 
 Create a Firebase project and set up Firebase Authentication.
 Update the Firebase configuration in src/services/firebase.js with your project credentials.
@@ -56,16 +56,11 @@ npm start
 The app will be running at http://localhost:3000.
 
  
- ***User Documentation
+ ***User Documentation***
 For detailed instructions on using the Task Manager application, refer to the User Documentation available here.
 
-***Contributing
+***Contributing***
 We welcome contributions! If you want to contribute to this project, please follow our Contribution Guidelines.
 
-***License
-This project is licensed under the MIT License.
-
-css
-Copy code
 
 Remember to customize the Firebase setup instructions, project-specific det
