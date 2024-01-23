@@ -27,7 +27,7 @@ Task Manager is a feature-rich task management application designed to streamlin
 
 ### Prerequisites
 
-- Node.js and npm installed.
+- React.js and npm installed.
 - Firebase project set up. [Firebase Setup Guide](https://firebase.google.com/docs/web/setup)
 
 ### Installation
