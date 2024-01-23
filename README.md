@@ -57,9 +57,11 @@ The app will be running at http://localhost:3000.
 
  
  ***User Documentation***
+ 
 For detailed instructions on using the Task Manager application, refer to the User Documentation available here.
 
 ***Contributing***
+
 We welcome contributions! If you want to contribute to this project, please follow our Contribution Guidelines.
 
 
