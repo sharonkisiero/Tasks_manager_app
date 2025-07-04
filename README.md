@@ -34,7 +34,7 @@ Task Manager is a feature-rich task management application designed to streamlin
 
 1. **Clone the repository:**
 
-   git clone https://github.com/sKyi01/Task-Manager-React-Firebase.git
+   git clone https://github.com/sharonkisiero/Tasks_manager_app.git
 
 2. **Navigate to the project directory:**
 
@@ -66,3 +66,4 @@ We welcome contributions! If you want to contribute to this project, please foll
 
 
 Remember to customize the Firebase setup instructions, project-specific det
+# Tasks_manager_app
